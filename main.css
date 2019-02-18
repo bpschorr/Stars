@@ -1,0 +1,10 @@
+#districts path {
+    fill: #d1c9b8;
+}
+#stars path {
+    fill: #ebe1cc;
+    stroke: #fff4dd;
+}
+#stars path:hover {
+    fill: black;
+}
